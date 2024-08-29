@@ -1,33 +1,9 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
+## Bem-vindo(a) ao perfil do Vanessa de Barros 😁
 
  <div>
-   <a href="https://github.com/NessaBSantos
-/
-README.md
-in
-main
-
-Edit
-
-">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NessaBSantos
-/
-README.md
-in
-main
-
-Edit
-
-show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NessaBSantos
-/
-README.md
-in
-main
-
-Edit
-
- &layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/BreadcrumbsNessaBSantos">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BreadcrumbsNessaBSantos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BreadcrumbsNessaBSantos&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
@@ -43,6 +19,6 @@ Edit
 <div> 
   <a href="https://www.instagram.com/nessa.barrosvegan/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/5DVhGKVf4h" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:gemeos@devemdobro.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vanessabarros-sre" target="_blank"><img src="www.linkedin.com/in/vanessabarros-srestyle=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:barros.vanessa1003@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/vanessabarros-sre" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
